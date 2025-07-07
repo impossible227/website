@@ -1,0 +1,30 @@
+{
+  "manga": [
+    {
+      "id": "haitatsu",
+      "title": "Haitatsusaki no Onee-san ga Kowa Sugiru",
+      "cover": "chapter/haitatsu/cover.jpg",
+      "description": "Wanita pengantar paket dengan aura misterius dan masa lalu kelam.",
+      "genre": ["Slice of Life", "Drama"],
+      "status": "Ongoing",
+      "chapters": [
+        {
+          "number": "1",
+          "date": "2025-07-06",
+          "pages": [
+            "chapter/haitatsu/1/1.jpg",
+            "chapter/haitatsu/1/2.jpg"
+          ]
+        },
+        {
+          "number": "2",
+          "date": "2025-07-06",
+          "pages": [
+            "chapter/haitatsu/2/1.jpg",
+            "chapter/haitatsu/2/2.jpg"
+          ]
+        }
+      ]
+    }
+  ]
+}
